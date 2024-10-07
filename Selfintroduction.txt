@@ -6,8 +6,14 @@ As a non-technical background i know i have to concentate more so i did my level
 
 
 And i did a project of Netflix clone which contains frontend ,backend and database
+Language
+JAVA ,JAVASCRIPT
+
 frontend
+HTML , CSS , JAVASCRIPT , REACT JS
 
 backend
+SPRINGBOOT , RESTAPI's
 
 database
+MY SQL , MONGO DB

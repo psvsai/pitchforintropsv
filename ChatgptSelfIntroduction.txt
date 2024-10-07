@@ -1,0 +1,18 @@
+SELF INTRODUCTION
+
+
+"My name is PASUPULETI SRI VENKATA SAI MAHESH, and I am passionate about Java full stack development. 
+I have been worked in wipro for 1 year 10 months as a associate in mapping process, 
+so i started focusing on both the frontend and backend.
+My expertise includes creating responsive user interfaces with technologies like React,
+while also handling server-side logic using Java and frameworks like Spring Boot. 
+ I'm keen on building scalable, efficient applications that deliver great user experiences."
+
+ A brief note on Java full stack development:
+ 
+ Java full stack development refers to the practice of working on both the frontend and backend of web applications using Java technologies. 
+ On the backend, Java is typically paired with frameworks 
+ like Spring Boot to handle business logic, APIs, and database management.
+ For the frontend, full stack developers often use modern JavaScript frameworks like React.
+ A full stack developer is comfortable working with databases (SQL, NoSQL), handling API requests, and implementing user interfaces,
+  making them versatile in handling all layers of the application stack.

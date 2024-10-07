@@ -1,0 +1,8 @@
+Hi sir/madam myself Pasupuleti sri venkat sai mahesh, I from hyderabad,I graduate from Andhra university in the year 2021.
+I joined wipro in the 2022 and i worked for 1 year 10 months. after that i realized about myself these not the way i want to choose.
+And i want to shift into IT so, i started to search for the better course. finally i dicided to full stack developer. 
+As a non-technical background i know i have to concentate more so i did my level best for it.
+
+
+
+And i did a project of Netflix clone which contains frontend ,backend and database
